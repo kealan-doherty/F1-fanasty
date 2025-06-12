@@ -1,0 +1,21 @@
+ .welcomeMessage{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+
+.description{
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+
+#newAccountLink{
+    text-align: center;
+    font-size:18;
+
+}
+
+.welcomePageBackground{
+    background-color: blue;
+}
